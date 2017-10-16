@@ -3,3 +3,30 @@ html{
   text-align: center;
   align-items: center;
 }
+
+.bgimage{
+  background-image: url("images/the-flatiron-building.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+ul{
+  list-style: none;
+}
+
+.white{
+  color: white;
+}
+
+#Footer{
+  text-align: left;
+  background-color: dimgray;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  left: 0;
+}
+
+a:visited{
+  color: white;
+}
