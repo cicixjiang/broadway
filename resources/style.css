@@ -29,6 +29,13 @@ ul{
   margin-bottom: 0px;
 }
 
+a{
+  cursor: pointer; 
+}
+
+a::before{
+  color: white;
+}
 a:visited{
   color: white;
 }
