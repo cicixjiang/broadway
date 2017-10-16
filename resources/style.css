@@ -4,6 +4,13 @@ html{
   align-items: center;
 }
 
+body{
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px
+}
+
 .bgimage{
   background-image: url("images/the-flatiron-building.png");
   background-repeat: no-repeat;
@@ -55,6 +62,7 @@ div{
 
 h1{
   font-size: 70px;
+  margin-top: 0px;
 }
 
 h2{
