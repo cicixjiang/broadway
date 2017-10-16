@@ -12,6 +12,7 @@ html{
 
 ul{
   list-style: none;
+  font-size: 18px;
 }
 
 .white{
@@ -25,8 +26,41 @@ ul{
   bottom: 0;
   right: 0;
   left: 0;
+  margin-bottom: 0px;
 }
 
 a:visited{
   color: white;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+div{
+  margin-bottom: 80px;
+}
+
+#Header{
+  margin-bottom: 0px;
+}
+
+#About{
+  margin-bottom: 0px;
+}
+
+h1{
+  font-size: 70px;
+}
+
+h2{
+  font-size: 32px;
+}
+
+h3{
+  font-size: 23px;
+}
+
+p{
+  font-size: 14px;
 }
