@@ -30,12 +30,13 @@ ul{
 }
 
 a{
-  cursor: pointer; 
+  cursor: pointer;
 }
 
-a::before{
+a:default{
   color: white;
 }
+
 a:visited{
   color: white;
 }
