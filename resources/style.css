@@ -8,7 +8,7 @@ html{
   background-image: url("images/the-flatiron-building.png");
   background-repeat: no-repeat;
   background-size: cover;
-}
+} /*Header Design In New York*/
 
 ul{
   list-style: none;
@@ -17,7 +17,7 @@ ul{
 
 .white{
   color: white;
-}
+}/*h1 Header Footer Nav*/
 
 #Footer{
   text-align: left;
@@ -35,18 +35,14 @@ a:visited{
 
 .bold{
   font-weight: bold;
-}
+}/*h1 "Design In New York" Header*/
 
 div{
+  margin-bottom: 0px;
+}
+
+#DesignInNewYork{
   margin-bottom: 80px;
-}
-
-#Header{
-  margin-bottom: 0px;
-}
-
-#About{
-  margin-bottom: 0px;
 }
 
 h1{
