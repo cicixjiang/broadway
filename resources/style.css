@@ -33,7 +33,7 @@ a{
   cursor: pointer;
 }
 
-a:default{
+a:link{
   color: white;
 }
 
